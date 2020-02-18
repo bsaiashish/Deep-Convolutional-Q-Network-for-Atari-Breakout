@@ -1,7 +1,9 @@
 # Deep-Convolutional-Q-Network-for-Atari-Breakout
 A reimplementation of the famous Google DeepMind paper on Deep Reinforcement Learning
 
-<div style="text-align:center"><img src="![](https://raw.githubusercontent.com/kuz/DeepMind-Atari-Deep-Q-Learner/master/gifs/breakout.gif)" /></div>
+<p align="center">
+  <img width="460" height="300" src="![](https://raw.githubusercontent.com/kuz/DeepMind-Atari-Deep-Q-Learner/master/gifs/breakout.gif)">
+</p>
 
 ## INTRODUCTION
 
